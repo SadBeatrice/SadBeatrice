@@ -1,5 +1,5 @@
 •  Olá, sou Mathias Lucena.
-•  Estou aprendendo Python com foco em Back-end.
+•  Estou aprendendo Desenvolvimento de Sistemas com foco em Back-end.
 •	 Curso Análise e Desenvolvimento de Sistemas no IFSP SP.
 
 •  Contatos:
